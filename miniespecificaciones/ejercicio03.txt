@@ -6,7 +6,7 @@
 6.      variable2 <-- 20
 7.      obtenerSuma(variable, variable2)
 8.      obtenerSuma(variable, 100)
-9.      obtenerSuma("variable", 100) // ojo, error...
+9.      obtenerSuma("variable", 100) // ojo, error// es un erro ya que el dato que intenta mandar es de tipo cadena y esta declarado como entero 
 10.  fin funcion principal
 11.  // se define un método o función
 12.  funcion obtenerSuma(a, i; b, i)
@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+// en esta ejemplo existen dos procedimientos , ya que
+// para que para que sea una función esta debe tener un retorno 
